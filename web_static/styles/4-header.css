@@ -10,7 +10,7 @@ header {
 }
 
 header .AiBnBlogo {
-      background-image: url("../images/icon.png");
+      background-image: url("../images/logo.png");
       background-repeat: no-repeat;
       display: flex;
       height: 100%;

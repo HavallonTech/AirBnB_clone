@@ -5,12 +5,17 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     position: relative;
+    margin-top: 90px;
+    padding-top: 30px;
+    /* align-items: center; 
+    display: flex;
+    justify-content: flex-end; */
 }
 
 button{
     font-size: 18px;
     background-color:#FF5A5F;
-    color: #FFFFFF;
+    color: #700f0f;
     height: 48px;
     width: 20%;
     border-radius: 4px;
@@ -22,4 +27,8 @@ button{
 
 button:hover {
     opacity: 0.9;
+}
+.cont{
+    justify-content: right;
+    align-content: center;
 }
